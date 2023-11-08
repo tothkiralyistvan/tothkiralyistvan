@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 || Hello there, I'm Istvan
+- 💻 || Currently working as a research analyst
+- ♾ || My work passions revolve around statistics and quantitative psychology
+- ⭐ || Aiming to conducting high-quality research that could make a difference in people's lives
 
 <!--
 **tothkiralyistvan/tothkiralyistvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
