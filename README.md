@@ -1,7 +1,9 @@
 - 👋 || Hello there, I'm Istvan
-- 💻 || Currently working as a research analyst
-- ♾ || My work passions revolve around statistics and quantitative psychology
-- ⭐ || Aiming to conducting high-quality research that could make a difference in people's lives
+- 🤓 || Psychology Ph.D. researcher with over 10 years of research experience, resulting in a total of 86 peer-reviewed scientific articles and 28 conference presentations
+- 🔥 || Strong expertise in assessment and multiple innovative variable- and person-centered analytic approaches
+- 🖊 || Skilled in the communication of complex statistical methods to diverse audiences
+- ♾ || Work passions revolve around statistics and quantitative psychology
+- 🦇 || Striving to conducting high-quality research that could make a difference in people's lives
 
 <!--
 **tothkiralyistvan/tothkiralyistvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
